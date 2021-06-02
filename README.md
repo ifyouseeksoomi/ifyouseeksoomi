@@ -7,7 +7,7 @@
   <br> 사용자 중심의 깔끔한 UI, UX를 선호하며 
   <br> 파이써닉한 백엔드를 구축하기 위해 늘 고민합니다.
   
-  <br>[![Readme Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://www.notion.so/d3d7457993724ae2983dbf07b5fccaea)](https://www.notion.so/d3d7457993724ae2983dbf07b5fccaea) 
+  <br>[![Resume Badge](http://img.shields.io/badge/-Resume-black?style=flat-square&logo=notion&link=https://www.notion.so/46c878bb08d54dad9d8598d06251f54f)](https://www.notion.so/46c878bb08d54dad9d8598d06251f54f) 
 [![Blog Badge](https://img.shields.io/badge/-TIL_Velog-Green?style=flat-square&logo=velog&link=https://velog.io/@ifyouseeksoomi)](https://velog.io/@ifyouseeksoomi) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ifyouseeksoomi@gmail.com)](mailto:ifyouseeksoomi@gmail.com)
 </div>
